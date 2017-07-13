@@ -1,0 +1,22 @@
+platform:ios,'8.0'
+
+target 'LiveApp' do
+pod 'AFNetworking'
+pod 'YTKNetwork'
+pod 'SVProgressHUD'
+pod 'AMap2DMap'
+pod 'FMDB'
+pod 'IQKeyboardManager'
+pod 'JSONModel'
+pod 'libextobjc'
+pod 'MCUIColorUtils'
+pod 'NSDictionary+Accessors'
+pod 'UIActionSheet+Blocks'
+pod 'UIAlertView+Block'
+pod 'UMengAnalytics'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'UMengSocialCOM'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+end
